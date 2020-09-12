@@ -6,6 +6,9 @@ cleaned_csv = "US_Accidents_Cleaned.csv"
 destination_zip = os.path.join("Resources", "US_Accidents.zip")
 
 # column names and data types
-col_types = {'ID': 'str', 
-             'Severity': 'int8', 
-             'Start_Time': 'str'}
+col_types = {'Start_Time': 'str', 
+             'Country': 'str', 
+             'Start_Time': 'str',
+             'End_Time':'str',
+             'State':'str',
+             'Temperature(F)':'float64'}
