@@ -1,15 +1,17 @@
 -- Create Two Tables
 CREATE TABLE us_accidents (
-  Date VARCHAR(20) PRIMARY KEY,
+  Index Serial PRIMARY KEY,
+  Date VARCHAR(20), 
   Country TEXT,
   State TEXT,
   Temperature INT,
-  Day_Night VARCHAR(20)
+  Day_Night VARCHAR(100)
   );
 
 CREATE TABLE tesla_deaths (
-  Date VARCHAR(20) PRIMARY KEY,
+  Index Serial Primary Key,
+  Date VARCHAR(20),
   Country TEXT,
   State TEXT,
-  Deaths INT
+  Deaths Varchar(100)
   );

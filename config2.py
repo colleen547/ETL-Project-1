@@ -11,4 +11,4 @@ col_types = {'Start_Time': 'str',
              'Start_Time': 'str',
              'End_Time':'str',
              'State':'str',
-             'Temperature(F)':'float64'}
+             'Temperature':'float64'}
