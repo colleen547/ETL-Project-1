@@ -12,7 +12,7 @@
 
 _`1. Open `**PgAdmin**` and create a database called` **etl_db**_
 
-_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`2. Open` **query tools** `and run the code contained in` **schema.sql**_
+_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`2. Open` **query tools** `and run the code contained in` **schema.sql** `to create tables`_
 
 **=== IMPORTANT: Please run the above two postgres steps before proceeding ===**
 
