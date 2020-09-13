@@ -14,7 +14,7 @@ _`1. Open `**PgAdmin**` and create a database called` **etl_db**_
 
 _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`2. Open` **query tools** `and run the code contained in` **schema.sql**_
 
-**=== IMPORTANT: Please run the above two postgres steps before proceeding ===.**
+**=== IMPORTANT: Please run the above two postgres steps before proceeding ===**
 
 _`3. Open` **jupyter notebook** `and run the code contained in` **main.ipynb**_
 
@@ -22,18 +22,18 @@ _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`4. Load dependencies`_
 
 _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`5. Extract CSVs into DataFrames`_
 
-_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`6. Transform U.S. Acccidents Dataframe`_
+_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`6. Transform U.S. Acccidents DataFrame`_
 
-_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`7. Transform Tesla Dataframe`_
+_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`7. Transform Tesla DataFrame`_
 
 _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`8. Create` **SQL** `database connection`_
 
 _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`9. Load DataFrames into database`_
 
-_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`10. Confirm data was added tothe database`_
+_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`10. Confirm data was added to the database`_
 
 *** 
-### **ADDITIONAL DETAILS: To complete this project our team completed the following steps**
+### **ADDITIONAL DETAILS: To complete this project our team performed the following steps**
 ***
 
 Step 1: **`Extract`** - Our original data was derived from two CSV files from the following sources:
