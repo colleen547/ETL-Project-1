@@ -33,7 +33,7 @@ _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`9. Load DataFrames into database`_
 _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`10. Confirm data was added tothe database`_
 
 *** 
-### **ADDITIONAL DETAILS: To complete this project, our team performed the following steps**
+### **ADDITIONAL DETAILS: To complete this project our team completed the following steps**
 ***
 
 Step 1: **`Extract`** - Our original data was derived from two CSV files from the following sources:
