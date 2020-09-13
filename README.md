@@ -7,7 +7,7 @@
 ***
 ### **TEAM MEMBERS: Chris Hauck, Ken Njema, Colleen Banzhof**
 ***
-### _**`=== INSTRUCTIONS: Please complete the steps in the following order to execute our code ===`**_
+### _**`=== INSTRUCTIONS: Please follow the instructions below` in order `to execute our code ===`**_
 ***
 
 _`1. Open `**PgAdmin**` and create a database called` **etl_db**_
