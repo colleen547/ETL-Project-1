@@ -1,2 +1,2 @@
 login = postgres
-password = bootcamp
+password = bootcamps
